@@ -1,0 +1,2 @@
+100,Sharyar Ali,23,Male,RWP,BSCS
+100,Shahryar,60,female,rawal pindi,muthimar
